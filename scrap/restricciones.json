@@ -1,0 +1,9777 @@
+{
+    "ADMI1101": [
+        "SOLO 0 1",
+        "SOLO ADMI CONT EDIR EXTE",
+        "No tiene"
+    ],
+    "ADMI1190": [
+        "No tiene",
+        "SOLO ADMI EDIR",
+        "No tiene"
+    ],
+    "ADMI1203": [
+        "No tiene",
+        "SOLO ADMI CONT EDIR",
+        "No tiene"
+    ],
+    "ADMI1401": [
+        "No tiene",
+        "SOLO ADMI EDIR",
+        "No tiene"
+    ],
+    "ADMI1590": [
+        "No tiene",
+        "SOLO ADMI EDIR",
+        "No tiene"
+    ],
+    "ADMI1602": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI1603": [
+        "EXCLUYE 0 1 2",
+        "SOLO ADMI EDIR",
+        "No tiene"
+    ],
+    "ADMI2106": [
+        "No tiene",
+        "SOLO ADMI EDIR",
+        "No tiene"
+    ],
+    "ADMI2107": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI2204": [
+        "No tiene",
+        "SOLO ADMI CONT EDIR",
+        "No tiene"
+    ],
+    "ADMI2205": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI2206": [
+        "No tiene",
+        "SOLO ADMI EDIR",
+        "No tiene"
+    ],
+    "ADMI2207": [
+        "No tiene",
+        "SOLO ADMI EDIR",
+        "No tiene"
+    ],
+    "ADMI2302": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI2403": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI2501": [
+        "EXCLUYE 0 1 2",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI2556": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI2557": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI2801": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3107": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ADMI CONT",
+        "No tiene"
+    ],
+    "ADMI3107C": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3110": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3122": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3122C": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3137": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3138": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3190": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3200": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3237": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3311": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3341": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3405": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ADMI CONT",
+        "No tiene"
+    ],
+    "ADMI3406": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3502": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3606": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ADMI3701": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3990": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "ADMI3991": [
+        "No tiene",
+        "SOLO ADMI",
+        "No tiene"
+    ],
+    "": [
+        "No tiene",
+        "No tiene",
+        "No tiene"
+    ],
+    "ANTR1001": [
+        "No tiene",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR1104": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1105A": [
+        "No tiene",
+        "EXCLUYE ANTR",
+        "SOLO PR"
+    ],
+    "ANTR1106B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1114A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1118A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1124A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1134B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1135A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1201": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1202B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR1203A": [
+        "No tiene",
+        "EXCLUYE ANTR",
+        "SOLO PR"
+    ],
+    "ANTR1401": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR2101": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR2102": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR2106": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR2116": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR2201": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE DO MA"
+    ],
+    "ANTR2301": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3006": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3007": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3011": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3013": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3014": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ANTR3015": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3102": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3103": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ANTR3171": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ANTR3175": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ANTR3183": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3184": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3185": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3186": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3187": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3188": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3189": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3190": [
+        "No tiene",
+        "EXCLUYE ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3191": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3193": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3194": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3195": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3600": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3990": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3992": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR3993": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO ANTR",
+        "SOLO PR"
+    ],
+    "ANTR4106": [
+        "No tiene",
+        "SOLO M-ANTR",
+        "No tiene"
+    ],
+    "ANTR4137": [
+        "No tiene",
+        "SOLO M-ANTR",
+        "SOLO MA"
+    ],
+    "ANTR4138": [
+        "No tiene",
+        "SOLO M-ANTR",
+        "SOLO MA"
+    ],
+    "ANTR4224": [
+        "No tiene",
+        "SOLO M-ANTR",
+        "SOLO MA"
+    ],
+    "ANTR4225": [
+        "No tiene",
+        "SOLO M-ANTR",
+        "SOLO MA"
+    ],
+    "ANTR4500": [
+        "No tiene",
+        "SOLO M-ANTR",
+        "SOLO MA"
+    ],
+    "ANTR4990": [
+        "No tiene",
+        "SOLO M-ANTR",
+        "SOLO MA"
+    ],
+    "ANTR6061": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6062": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ANTR6063": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6064": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6065": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6066": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6961": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6962": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6963": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6970": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6971": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6980": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6981": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6982": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6983": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ANTR6990": [
+        "No tiene",
+        "SOLO D-ANTR",
+        "SOLO DO"
+    ],
+    "ARQU1010": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU1020": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARQU1021": [
+        "No tiene",
+        "EXCLUYE ARQU",
+        "SOLO PR"
+    ],
+    "ARQU1100": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU1111": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1121": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1201": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1202": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1301": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1302": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1410": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1420": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1502": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1503": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1504": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU1552": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARQU2101": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2102": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2103": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2201": [
+        "No tiene",
+        "SOLO ARQU HART",
+        "SOLO PR"
+    ],
+    "ARQU2202": [
+        "No tiene",
+        "SOLO ARQU HART",
+        "SOLO PR"
+    ],
+    "ARQU2203": [
+        "No tiene",
+        "SOLO ARQU HART",
+        "SOLO PR"
+    ],
+    "ARQU2310": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2320": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2330": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2410": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2420": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU2430": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3163": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3168": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3170": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3210": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3249": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3253": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3325": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3351": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3852": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3853": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3854": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3858": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3859": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3860": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3861": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3862": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3863": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3864": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3865": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3866": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3867": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3868": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3869": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3870": [
+        "No tiene",
+        "SOLO ARQU",
+        "No tiene"
+    ],
+    "ARQU3871": [
+        "No tiene",
+        "SOLO ARQU",
+        "No tiene"
+    ],
+    "ARQU3872": [
+        "No tiene",
+        "SOLO ARQU",
+        "No tiene"
+    ],
+    "ARQU3873": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3874": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3875": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3910": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3911": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3912": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3913": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3920": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3930": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3931": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3932": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3933": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3990": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3991": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU3992": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARQU4101": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ARQU4104": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ARQU4106": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO DO ES MA"
+    ],
+    "ARQU4107": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO DO ES MA"
+    ],
+    "ARQU4201": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO MA"
+    ],
+    "ARQU4203": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO MA"
+    ],
+    "ARQU4204": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO MA"
+    ],
+    "ARQU4301": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO MA"
+    ],
+    "ARQU4302": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO MA"
+    ],
+    "ARQU4303": [
+        "No tiene",
+        "SOLO M-ARQU",
+        "SOLO MA"
+    ],
+    "ARTE1000": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1001": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1002": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1103": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1104": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1105": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1112A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1113": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1115": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1116": [
+        "No tiene",
+        "SOLO ARTE EDIR HART LART",
+        "SOLO PR"
+    ],
+    "ARTE1117": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1118": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1119": [
+        "No tiene",
+        "EXCLUYE ARTE",
+        "SOLO PR"
+    ],
+    "ARTE1120B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1123": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1209B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1213": [
+        "No tiene",
+        "SOLO ARTE EDIR HART LART",
+        "SOLO PR"
+    ],
+    "ARTE1215": [
+        "No tiene",
+        "SOLO ARTE EDIR HART LART",
+        "SOLO PR"
+    ],
+    "ARTE1216": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1405B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1406A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1407": [
+        "No tiene",
+        "SOLO ARTE EDIR HART",
+        "SOLO PR"
+    ],
+    "ARTE1408A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE1410A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2100": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2101": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2106": [
+        "No tiene",
+        "SOLO ARQU",
+        "SOLO PR"
+    ],
+    "ARTE2107": [
+        "No tiene",
+        "SOLO ARQU EDIR",
+        "SOLO PR"
+    ],
+    "ARTE2108": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2109": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2110": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2111": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2112": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2113": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2114": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2116": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2119": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2120": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2124": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2126": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2128": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2129": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2203": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2205": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2206": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2207": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2210": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2410": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE2454": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3100": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3114": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3115": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3200": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3201": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3205": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3217": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3403": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3422": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3427": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "ARTE3429": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "ARTE3602": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3603": [
+        "EXCLUYE 0 1 2 3 4 5 6 7",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3990": [
+        "EXCLUYE 0 1 2 3 4 5 6 7",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3992": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3994": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3995": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTE3996": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "ARTI4005": [
+        "No tiene",
+        "SOLO M-ARTI",
+        "SOLO MA"
+    ],
+    "ARTI4102": [
+        "No tiene",
+        "EXCLUYE M-MBIT",
+        "No tiene"
+    ],
+    "ARTI4108": [
+        "No tiene",
+        "EXCLUYE M-MBIT",
+        "No tiene"
+    ],
+    "ARTI4204": [
+        "No tiene",
+        "EXCLUYE M-MSIN",
+        "No tiene"
+    ],
+    "ARTI4301": [
+        "No tiene",
+        "SOLO M-ARTI",
+        "SOLO MA"
+    ],
+    "AUTO5201": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "AUTO5220": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "AUTO5223": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "AUTO5229": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "BCOM4002": [
+        "No tiene",
+        "SOLO BIOL FISI IQUI MATE M-BCOM MICR",
+        "SOLO MA PR"
+    ],
+    "BCOM4007": [
+        "No tiene",
+        "SOLO M-BCOM M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "No tiene"
+    ],
+    "BCOM4008": [
+        "No tiene",
+        "SOLO M-BCOM M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "No tiene"
+    ],
+    "BCOM4101": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "BCOM4102": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA"
+    ],
+    "BCOM4970": [
+        "No tiene",
+        "SOLO M-BCOM",
+        "No tiene"
+    ],
+    "BCOM4980": [
+        "No tiene",
+        "SOLO M-BCOM",
+        "SOLO MA"
+    ],
+    "BCOM4990": [
+        "No tiene",
+        "SOLO M-BCOM",
+        "SOLO MA"
+    ],
+    "BCOM4991": [
+        "No tiene",
+        "SOLO M-BCOM",
+        "SOLO MA"
+    ],
+    "BCOM4992": [
+        "No tiene",
+        "SOLO M-BCOM",
+        "No tiene"
+    ],
+    "BCOM4993": [
+        "No tiene",
+        "SOLO M-BCOM",
+        "No tiene"
+    ],
+    "BIOL0000": [
+        "No tiene",
+        "SOLO BIOL EDIR",
+        "SOLO PR"
+    ],
+    "BIOL1300": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "BIOL1300C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL1301": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "BIOL1312": [
+        "No tiene",
+        "SOLO EDIR PSIC",
+        "SOLO PR"
+    ],
+    "BIOL1313": [
+        "No tiene",
+        "SOLO EDIR PSIC",
+        "SOLO PR"
+    ],
+    "BIOL1327": [
+        "No tiene",
+        "EXCLUYE IAMB",
+        "No tiene"
+    ],
+    "BIOL1327C": [
+        "No tiene",
+        "EXCLUYE IAMB",
+        "No tiene"
+    ],
+    "BIOL2200": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL2201": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL2302": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL2303": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL2308": [
+        "No tiene",
+        "SOLO BIOL EDIR MICR",
+        "SOLO PR"
+    ],
+    "BIOL2309": [
+        "No tiene",
+        "SOLO BIOL EDIR MICR",
+        "SOLO PR"
+    ],
+    "BIOL2310": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL2311": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3202": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3203": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3302": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3303": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3320": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3321": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3324": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3325": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3340": [
+        "SOLO 5 6 7 8 9 10",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3341": [
+        "SOLO 5 6 7 8 9 10",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3346": [
+        "No tiene",
+        "SOLO BIOL GEOC IAMB IBIO ICIV IELC IELE IGEN IIND IMEC IQUI ISIS MICR",
+        "SOLO PR"
+    ],
+    "BIOL3906": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "BIOL3907": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "BIOL3911": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "BIOL3912": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "BIOL3991": [
+        "SOLO 6 7 8",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "BIOL3995": [
+        "SOLO 7 8",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "CBIO4108": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4109": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4118": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4123": [
+        "No tiene",
+        "SOLO D-CBIO M-MABI M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4307": [
+        "No tiene",
+        "SOLO D-CBIO D-CQUI M-BIOL M-CBIO M-MABI M-MICR M-MMIC M-QUIM",
+        "SOLO DO MA"
+    ],
+    "CBIO4334": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "No tiene"
+    ],
+    "CBIO4508": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4521": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4529": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "No tiene"
+    ],
+    "CBIO4531": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "No tiene"
+    ],
+    "CBIO4600": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4800": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4804": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO4805": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4807": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CBIO4809": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4810": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4813": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4814": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CBIO4902": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4912": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4913": [
+        "No tiene",
+        "SOLO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO MA"
+    ],
+    "CBIO4918": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "No tiene"
+    ],
+    "CBIO6802": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6803": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6903": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6914": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6915": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6924": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6925": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6970": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6971": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6980": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6981": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6982": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6983": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6984": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6985": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6986": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6987": [
+        "No tiene",
+        "SOLO D-CBIO",
+        "SOLO DO"
+    ],
+    "CBIO6990": [
+        "No tiene",
+        "SOLO D-CBIO M-BIOL M-CBIO M-MABI M-MICR M-MMIC",
+        "SOLO DO MA"
+    ],
+    "CBIO6997": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "CIDE3140A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CIDE3141B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CIDE3154A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CIDE3172B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CIDE3992": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CIDE4107": [
+        "No tiene",
+        "SOLO M-EDES",
+        "SOLO MA"
+    ],
+    "CIDE4110": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4114": [
+        "No tiene",
+        "SOLO M-EDES",
+        "SOLO MA"
+    ],
+    "CIDE4133": [
+        "No tiene",
+        "SOLO M-EDES M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4135": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4136": [
+        "No tiene",
+        "SOLO D-EIND M-EDES",
+        "SOLO DO MA"
+    ],
+    "CIDE4140": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-ORSD",
+        "SOLO DO ES MA"
+    ],
+    "CIDE4148": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4151": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4152": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4169": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4171": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4172": [
+        "No tiene",
+        "SOLO M-EDES M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4173": [
+        "No tiene",
+        "SOLO D-EIND E-GERD M-EDES M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CIDE4174": [
+        "No tiene",
+        "SOLO D-EIND E-GERD M-EDES M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CIDE4175": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-GERD M-EDES M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CIDE4176": [
+        "No tiene",
+        "SOLO D-EIND E-GERD M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CIDE4178": [
+        "No tiene",
+        "SOLO D-EIND M-EDES M-GENE",
+        "SOLO DO ES MA"
+    ],
+    "CIDE4181": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-GERD E-ORSD M-EDES M-GENE M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CIDE4182": [
+        "No tiene",
+        "SOLO M-GENE M-PURB",
+        "SOLO MA"
+    ],
+    "CIDE4183": [
+        "No tiene",
+        "SOLO D-EIND E-GERD M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CIDE5110": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-ORSD M-EDES",
+        "SOLO DO ES MA"
+    ],
+    "CIDE5113": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-ORSD M-EDES",
+        "SOLO DO ES MA"
+    ],
+    "CIDE5309": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-ORSD M-EDES",
+        "SOLO DO ES MA"
+    ],
+    "CIDE5316": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-ORSD M-EDES",
+        "SOLO DO ES MA"
+    ],
+    "CIDE5409": [
+        "No tiene",
+        "SOLO D-EIND E-EPOL E-GERD E-ORSD M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CIDE5412": [
+        "No tiene",
+        "SOLO D-EIND E-GERD M-EDES M-PURB",
+        "SOLO DO ES MA"
+    ],
+    "CISO4001": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4006": [
+        "No tiene",
+        "SOLO M-ANTR M-ECUL",
+        "SOLO MA"
+    ],
+    "CISO4007": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4008": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4009": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4010": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4011": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4014": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4019": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4024": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4025": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4026": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4028": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4043": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4044": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4506": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4512": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4513": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4603": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4608": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4638": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4639": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4642": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4651": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4652": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4653": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4654": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO4890": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "CISO6000": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "CISO6980": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "CNAL4001": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE PR"
+    ],
+    "CONT1210": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT1221": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT1311": [
+        "No tiene",
+        "SOLO CONT EDIR",
+        "No tiene"
+    ],
+    "CONT1321": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT1411": [
+        "No tiene",
+        "SOLO CONT EDIR EXTE",
+        "No tiene"
+    ],
+    "CONT1441": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT1461": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT2121": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT2212": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT2413": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT2421": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT2462": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT3111": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT3112": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CONT3122": [
+        "No tiene",
+        "SOLO ADMI CONT",
+        "No tiene"
+    ],
+    "CONT3422": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "CPOL1000": [
+        "No tiene",
+        "SOLO CPOL EDIR",
+        "SOLO PR"
+    ],
+    "CPOL1003": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL1100": [
+        "No tiene",
+        "SOLO CPOL EDIR",
+        "SOLO PR"
+    ],
+    "CPOL1201": [
+        "No tiene",
+        "SOLO CPOL EDIR",
+        "SOLO PR"
+    ],
+    "CPOL1300": [
+        "No tiene",
+        "SOLO CPOL EDIR GOBI",
+        "SOLO PR"
+    ],
+    "CPOL1400": [
+        "No tiene",
+        "SOLO CPOL EDIR",
+        "SOLO PR"
+    ],
+    "CPOL1500": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2204": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CPOL2245": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2247": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2248": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2250": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2308B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CPOL2338": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2339": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2410A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CPOL2417": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2425": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CPOL2426B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "CPOL2501": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2601": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL2602": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3003": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3005": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3100": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3202": [
+        "No tiene",
+        "SOLO CPOL",
+        "No tiene"
+    ],
+    "CPOL3300": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3500": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3600": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3990": [
+        "No tiene",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3991": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3992": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3993": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL3995": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO CPOL",
+        "SOLO PR"
+    ],
+    "CPOL4000": [
+        "No tiene",
+        "SOLO M-CPOL",
+        "SOLO MA"
+    ],
+    "CPOL4001": [
+        "No tiene",
+        "SOLO M-CPOL",
+        "SOLO MA"
+    ],
+    "CPOL4066": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "CPOL4103": [
+        "No tiene",
+        "SOLO D-CPOL M-CPOL",
+        "SOLO DO MA"
+    ],
+    "CPOL4522": [
+        "No tiene",
+        "SOLO D-CPOL M-CPOL",
+        "SOLO DO MA"
+    ],
+    "CPOL6972": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6973": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6974": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6975": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6976": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6977": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6978": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6979": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6980": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6983": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6990": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "CPOL6994": [
+        "No tiene",
+        "SOLO D-CPOL",
+        "SOLO DO"
+    ],
+    "DADM6973": [
+        "No tiene",
+        "SOLO D-ADMI",
+        "SOLO DO"
+    ],
+    "DADM6974": [
+        "No tiene",
+        "SOLO D-ADMI",
+        "SOLO DO"
+    ],
+    "DADM6975": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "DADM6981": [
+        "No tiene",
+        "SOLO D-ADMI",
+        "SOLO DO"
+    ],
+    "DADM6982": [
+        "No tiene",
+        "SOLO D-ADMI",
+        "SOLO DO"
+    ],
+    "DADM6985": [
+        "No tiene",
+        "SOLO D-ADMI",
+        "SOLO DO"
+    ],
+    "DADM6990": [
+        "No tiene",
+        "SOLO D-ADMI",
+        "SOLO DO"
+    ],
+    "DADM6998": [
+        "No tiene",
+        "SOLO D-ADMI M-MESO",
+        "SOLO DO MA"
+    ],
+    "DCOM5201": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "DCOM5204": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "DCOM5208": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "DCOM5210": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "DDER6102": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "DDER6202": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "DDER6203": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6401": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6402": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA NV"
+    ],
+    "DDER6403": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6404": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6501": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6961": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6980": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6981": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DDER6990": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DECA1001": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "DECA1101": [
+        "EXCLUYE 0",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "DECA1102": [
+        "EXCLUYE 0",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "DECA1103": [
+        "EXCLUYE 0",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "DEIN4402": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "DEIN4404": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "DEIN4601": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "DEIN4604": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "DEIN4606": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "DEMP5203": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "DENI5704": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA"
+    ],
+    "DENI5705": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA"
+    ],
+    "DEPR4100": [
+        "No tiene",
+        "SOLO M-DEPR",
+        "SOLO MA"
+    ],
+    "DEPR4101": [
+        "No tiene",
+        "SOLO M-DEPR",
+        "SOLO MA"
+    ],
+    "DEPR4107": [
+        "No tiene",
+        "SOLO M-DEPR",
+        "SOLO MA"
+    ],
+    "DEPR4401": [
+        "No tiene",
+        "SOLO M-DEPR",
+        "SOLO MA"
+    ],
+    "DERE1103": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE1107": [
+        "No tiene",
+        "SOLO GEOC",
+        "No tiene"
+    ],
+    "DERE1201": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE1300": [
+        "No tiene",
+        "EXCLUYE DERE",
+        "No tiene"
+    ],
+    "DERE1901": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2101": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2102": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2103": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2201": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2202": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2203": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2204": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2205": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2206": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2207": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2208": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2302": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2303": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2401": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2402": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2403": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2502": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2601": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE2602": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3101": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3202": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3203": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3204": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3210": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3273": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3301": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3302": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3303": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3307": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3377": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3603": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3608": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3609": [
+        "No tiene",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3615": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3801": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3802": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3803": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3804": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3805": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3813": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3834": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3835": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "DERE3903": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO DERE EDIR",
+        "No tiene"
+    ],
+    "DERE3904": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3905": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DERE3909": [
+        "No tiene",
+        "SOLO DERE",
+        "No tiene"
+    ],
+    "DISE1000": [
+        "No tiene",
+        "SOLO ARQU DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1106": [
+        "No tiene",
+        "SOLO DISE DISO EDIR",
+        "No tiene"
+    ],
+    "DISE1107": [
+        "No tiene",
+        "SOLO DISE DISO EDIR",
+        "No tiene"
+    ],
+    "DISE1204": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1301": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1312": [
+        "No tiene",
+        "SOLO ARQU DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1314": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1316": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1403": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1405": [
+        "No tiene",
+        "SOLO ARQU DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1415": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE1501": [
+        "No tiene",
+        "SOLO ARQU DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2100": [
+        "No tiene",
+        "SOLO DISE DISO EDIR",
+        "No tiene"
+    ],
+    "DISE2101": [
+        "No tiene",
+        "SOLO DISE DISO EDIR",
+        "No tiene"
+    ],
+    "DISE2112": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE2122": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE2132": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE2307": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2308": [
+        "No tiene",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE2309": [
+        "No tiene",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE2357": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2358": [
+        "No tiene",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE2359": [
+        "No tiene",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE2509": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2517": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2521": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2531": [
+        "No tiene",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2603": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2607": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EDIR EGIN",
+        "No tiene"
+    ],
+    "DISE2619": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE2621": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE2635": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE2637": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3125": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3129": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3137": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3144": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3146": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3148": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3150": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3153": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3199": [
+        "No tiene",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3202": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE3205": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE3207": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3227": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3236": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE3246": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3249": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3250": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3251": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3252": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3336": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3348": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3349": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE3350": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3353": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3355": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3356": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3357": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3358": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3359": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3423": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE3424": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE3429": [
+        "EXCLUYE 0 1 2",
+        "No tiene",
+        "No tiene"
+    ],
+    "DISE3430": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3431": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3432": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3433": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3435": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3437": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3438": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3703": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3704": [
+        "EXCLUYE 0 1 2",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3705": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3706": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3707": [
+        "EXCLUYE 0 1",
+        "SOLO DISE DISO EGIN",
+        "No tiene"
+    ],
+    "DISE3990": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3991": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DISE3992": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO DISE DISO",
+        "No tiene"
+    ],
+    "DLIT6901": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DLIT6902": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DLIT6903": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DLIT6904": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DLIT6905": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DLIT6906": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DLIT6907": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DLIT6908": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "DPRO4101": [
+        "No tiene",
+        "SOLO IQUI M-DPRO M-IQUI",
+        "SOLO MA PR"
+    ],
+    "DPRO4201": [
+        "No tiene",
+        "SOLO IQUI M-DPRO M-IQUI",
+        "SOLO MA PR"
+    ],
+    "DPRO4204": [
+        "No tiene",
+        "SOLO IQUI M-DPRO M-IQUI",
+        "SOLO MA PR"
+    ],
+    "DPRO4300": [
+        "No tiene",
+        "SOLO IQUI M-DPRO M-IQUI",
+        "SOLO MA PR"
+    ],
+    "DPRO4302": [
+        "No tiene",
+        "SOLO IQUI M-DPRO M-IQUI",
+        "SOLO MA PR"
+    ],
+    "DPRO4400": [
+        "No tiene",
+        "SOLO IQUI M-DPRO M-IQUI",
+        "SOLO MA PR"
+    ],
+    "DPUB4300": [
+        "No tiene",
+        "SOLO M-DPUB",
+        "SOLO MA"
+    ],
+    "DPUB4401": [
+        "No tiene",
+        "SOLO M-DPUB",
+        "SOLO MA"
+    ],
+    "ECON1006": [
+        "SOLO 0 1 2",
+        "SOLO ECON EDIR",
+        "No tiene"
+    ],
+    "ECON1110": [
+        "SOLO 0 1 2",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON1299": [
+        "EXCLUYE 0 1 2 3",
+        "EXCLUYE ECON",
+        "No tiene"
+    ],
+    "ECON1300": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON1301": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON1302": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON1303": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON1304": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON1501": [
+        "No tiene",
+        "SOLO ECON EDIR GOBI",
+        "No tiene"
+    ],
+    "ECON1701": [
+        "No tiene",
+        "SOLO ECON EDIR",
+        "No tiene"
+    ],
+    "ECON2105": [
+        "No tiene",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON2106": [
+        "No tiene",
+        "SOLO EDIR GOBI IIND",
+        "No tiene"
+    ],
+    "ECON2203": [
+        "No tiene",
+        "SOLO ADMI ECON EDIR GOBI",
+        "No tiene"
+    ],
+    "ECON2205": [
+        "No tiene",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON3507": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON3508": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON3602": [
+        "EXCLUYE 0 1 2 3 4 5 6 7",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON3609": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON3665": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON3727": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON3730": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON3739": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON3763": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON3764": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "ECON3991": [
+        "No tiene",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON3992": [
+        "No tiene",
+        "SOLO ECON",
+        "No tiene"
+    ],
+    "ECON4113": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4113C": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4213": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4213C": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4301": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4301C": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4568": [
+        "No tiene",
+        "SOLO M-ECON",
+        "SOLO MA"
+    ],
+    "ECON4568C": [
+        "No tiene",
+        "SOLO M-ECON",
+        "SOLO MA"
+    ],
+    "ECON4600": [
+        "No tiene",
+        "SOLO M-ECON",
+        "SOLO MA"
+    ],
+    "ECON4603": [
+        "No tiene",
+        "SOLO M-ECON",
+        "SOLO MA"
+    ],
+    "ECON4643": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4645": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4649": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4657": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4659": [
+        "No tiene",
+        "SOLO M-ECON",
+        "SOLO MA"
+    ],
+    "ECON4659C": [
+        "No tiene",
+        "SOLO M-ECON",
+        "SOLO MA"
+    ],
+    "ECON4666": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4667": [
+        "No tiene",
+        "No tiene",
+        "EXCLUYE NV"
+    ],
+    "ECON4800": [
+        "No tiene",
+        "SOLO M-ECON",
+        "SOLO MA"
+    ],
+    "ECON6105": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6105C": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6202": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6202C": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6302": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6302C": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6402": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6622": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6980": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6981": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6982": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6983": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6984": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6985": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6986": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6987": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6988": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6989": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6990": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "ECON6997": [
+        "No tiene",
+        "SOLO D-ECON",
+        "SOLO DO"
+    ],
+    "EDUC1000A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1001B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1005B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1010B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1012A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1017B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1024": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1033": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1102": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1103": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1104": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1200": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1201": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1301": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC1302": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC2008": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC2102": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC2201": [
+        "No tiene",
+        "SOLO LART LCNA LCSO LEDI LHUM LLEN LMAT",
+        "SOLO PR"
+    ],
+    "EDUC2202": [
+        "No tiene",
+        "SOLO LART LCNA LCSO LEDI LHUM LLEN LMAT",
+        "SOLO PR"
+    ],
+    "EDUC3000": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EDUC3201": [
+        "No tiene",
+        "SOLO LART LCNA LCSO LEDI LHUM LLEN LMAT",
+        "SOLO PR"
+    ],
+    "EDUC4010": [
+        "No tiene",
+        "SOLO D-EDUC M-EDUC",
+        "SOLO DO MA"
+    ],
+    "EDUC4017": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA"
+    ],
+    "EDUC4022": [
+        "No tiene",
+        "SOLO D-EDUC E-CPED E-GEDU M-EDUC",
+        "SOLO DO ES MA"
+    ],
+    "EDUC4025": [
+        "No tiene",
+        "SOLO D-EDUC M-EDUC",
+        "SOLO DO MA"
+    ],
+    "EDUC4027": [
+        "No tiene",
+        "SOLO D-EDUC M-EDUC",
+        "SOLO DO MA"
+    ],
+    "EDUC4206": [
+        "No tiene",
+        "SOLO M-EDUC",
+        "SOLO MA"
+    ],
+    "EDUC4207": [
+        "No tiene",
+        "SOLO M-EDUC",
+        "SOLO MA"
+    ],
+    "EDUC4606": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA"
+    ],
+    "EDUC5300": [
+        "No tiene",
+        "SOLO E-CPED E-GEDU",
+        "SOLO ES"
+    ],
+    "EDUC6001": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6003": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6005": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6006": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6007": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6008": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6009": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6010": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6011": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6012": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6013": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6014": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6016": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6019": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6020": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "No tiene"
+    ],
+    "EDUC6022": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6990": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUC6997": [
+        "No tiene",
+        "SOLO D-EDUC",
+        "SOLO DO"
+    ],
+    "EDUI4003": [
+        "No tiene",
+        "EXCLUYE M-EDIB",
+        "SOLO MA"
+    ],
+    "EDUI4012": [
+        "No tiene",
+        "SOLO M-EDIB",
+        "SOLO MA"
+    ],
+    "EDUI4013": [
+        "No tiene",
+        "SOLO M-EDIB",
+        "SOLO MA"
+    ],
+    "EDUI4032": [
+        "No tiene",
+        "SOLO M-EDIB",
+        "SOLO MA"
+    ],
+    "EDUI4040": [
+        "No tiene",
+        "SOLO M-EDIB",
+        "SOLO MA"
+    ],
+    "EDUI4206": [
+        "No tiene",
+        "SOLO M-EDIB",
+        "SOLO MA"
+    ],
+    "EDUI4207": [
+        "No tiene",
+        "SOLO M-EDIB",
+        "SOLO MA"
+    ],
+    "EECO5101": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES NV"
+    ],
+    "EECO5102": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "EECO5103": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES NV"
+    ],
+    "EECO5218": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "EECO5219": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "EECO5234": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "EGOB3004": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3006": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3019": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3020": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3021": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3023": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3112": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3115": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB3506": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EGOB3511": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EGOB3901": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "EGOB4004": [
+        "No tiene",
+        "SOLO M-PPUB M-SPUB",
+        "SOLO MA"
+    ],
+    "EGOB4005": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "EGOB4100": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "No tiene"
+    ],
+    "EGOB4103": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "SOLO MA"
+    ],
+    "EGOB4104": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "SOLO MA"
+    ],
+    "EGOB4109": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "SOLO MA"
+    ],
+    "EGOB4110": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "No tiene"
+    ],
+    "EGOB4111": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB",
+        "No tiene"
+    ],
+    "EGOB4112": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB",
+        "No tiene"
+    ],
+    "EGOB4113": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "No tiene"
+    ],
+    "EGOB4115": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB",
+        "No tiene"
+    ],
+    "EGOB4117": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB",
+        "SOLO MA"
+    ],
+    "EGOB4118": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "SOLO MA"
+    ],
+    "EGOB4201": [
+        "No tiene",
+        "SOLO M-GOBI M-PPUB M-SPUB",
+        "SOLO MA"
+    ],
+    "EGOB4211": [
+        "No tiene",
+        "SOLO M-PPUB",
+        "No tiene"
+    ],
+    "EINT1000": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "EINT4000": [
+        "No tiene",
+        "SOLO M-EINT",
+        "SOLO MA"
+    ],
+    "EINT4001": [
+        "No tiene",
+        "SOLO M-EINT",
+        "SOLO MA"
+    ],
+    "EINT4201": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "EINT4202": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "EMAT4801": [
+        "No tiene",
+        "SOLO M-EMAT",
+        "No tiene"
+    ],
+    "EMAT4802": [
+        "No tiene",
+        "SOLO M-EMAT",
+        "No tiene"
+    ],
+    "EMAT4803": [
+        "No tiene",
+        "SOLO M-EMAT",
+        "No tiene"
+    ],
+    "EMAT4804": [
+        "No tiene",
+        "SOLO M-EMAT",
+        "No tiene"
+    ],
+    "EMAT4807": [
+        "No tiene",
+        "SOLO M-EMAT",
+        "No tiene"
+    ],
+    "EMAT4808": [
+        "No tiene",
+        "SOLO M-EMAT",
+        "No tiene"
+    ],
+    "ESIO5400": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "FILO2350B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FILO3020": [
+        "No tiene",
+        "SOLO FILO",
+        "No tiene"
+    ],
+    "FILO3993": [
+        "No tiene",
+        "SOLO FILO",
+        "SOLO PR"
+    ],
+    "FILO4800": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "FILO4810": [
+        "No tiene",
+        "SOLO M-FILO",
+        "SOLO MA"
+    ],
+    "FILO4811": [
+        "No tiene",
+        "SOLO M-FILO",
+        "SOLO MA"
+    ],
+    "FILO4812": [
+        "No tiene",
+        "SOLO D-FILO M-FILO",
+        "SOLO DO MA"
+    ],
+    "FILO6960": [
+        "No tiene",
+        "SOLO D-FILO",
+        "SOLO DO"
+    ],
+    "FILO6961": [
+        "No tiene",
+        "SOLO D-FILO",
+        "SOLO DO"
+    ],
+    "FILO6970": [
+        "No tiene",
+        "SOLO D-FILO",
+        "SOLO DO"
+    ],
+    "FILO6981": [
+        "No tiene",
+        "SOLO D-FILO",
+        "SOLO DO"
+    ],
+    "FILO6982": [
+        "No tiene",
+        "SOLO D-FILO",
+        "SOLO DO"
+    ],
+    "FILO6983": [
+        "No tiene",
+        "SOLO D-FILO",
+        "SOLO DO"
+    ],
+    "FILO6985": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "FILO6990": [
+        "No tiene",
+        "SOLO D-FILO",
+        "SOLO DO"
+    ],
+    "FISI1000": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1000C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1002": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1003": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1004A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1005": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1012": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1013": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1018": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1022": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1022C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1023": [
+        "No tiene",
+        "SOLO BIOL EDIR MEDI",
+        "SOLO PR"
+    ],
+    "FISI1028": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1028C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1029": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1038": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1038C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1039": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1048": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1049": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1092A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1094B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1801B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1860": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI1913B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI2026": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI2350": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI2940": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI3000": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3010": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI3011": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3013": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3014": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3020": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI3040": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI3080": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI3094": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI3098": [
+        "No tiene",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3101": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3152": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI3401": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3434": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI3450": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI3701": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3760": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI3763": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI3767": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI3801": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3811": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "FISI3901": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI3902": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO FISI",
+        "SOLO PR"
+    ],
+    "FISI4010": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI4011": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4012": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4013": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4014": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4040": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI4051": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI4080": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "FISI4094": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "FISI4098": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4099": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4101": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4102": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4401": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4402": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4405": [
+        "No tiene",
+        "SOLO D-FISI FISI M-CFIS M-FISI",
+        "No tiene"
+    ],
+    "FISI4450": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "FISI4701": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4702": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4763": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "FISI4767": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "FISI4801": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4802": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4811": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "FISI4901": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4902": [
+        "No tiene",
+        "SOLO M-CFIS M-FISI",
+        "SOLO MA"
+    ],
+    "FISI4961": [
+        "No tiene",
+        "SOLO M-FISI",
+        "SOLO MA"
+    ],
+    "FISI6111": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6112": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6113": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6114": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6115": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6116": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6117": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6118": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6119": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6201": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6202": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6961": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6962": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6970": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6971": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6972": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6973": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6974": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6975": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6976": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6977": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6978": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6981": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6982": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6983": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6984": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6985": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6986": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6987": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6988": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "FISI6990": [
+        "No tiene",
+        "SOLO D-FISI",
+        "SOLO DO"
+    ],
+    "GEOC0000": [
+        "SOLO 0 1 2 3",
+        "SOLO EDIR GEOC",
+        "SOLO PR"
+    ],
+    "GEOC3099": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO GEOC",
+        "SOLO PR"
+    ],
+    "GEOC3991": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO GEOC",
+        "SOLO PR"
+    ],
+    "GPUB5604": [
+        "No tiene",
+        "SOLO E-GPUB",
+        "SOLO ES"
+    ],
+    "GPUB5605": [
+        "No tiene",
+        "SOLO E-GPUB",
+        "SOLO ES"
+    ],
+    "GPUB5607": [
+        "No tiene",
+        "SOLO E-GPUB",
+        "SOLO ES"
+    ],
+    "GTEL5402": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "HART1101A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HART1111A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HART1130A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HART1341B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HART1441B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HART3990": [
+        "EXCLUYE 0 1 2 3 4 5 6 7",
+        "No tiene",
+        "No tiene"
+    ],
+    "HART3991": [
+        "EXCLUYE 0 1 2 3 4 5 6 7",
+        "No tiene",
+        "No tiene"
+    ],
+    "HART3992": [
+        "No tiene",
+        "SOLO HART",
+        "SOLO PR"
+    ],
+    "HDIG4000": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "HDIG4001": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "HDIG4004": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "HDIG4005": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "HDIG4006": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "HIST2423": [
+        "No tiene",
+        "SOLO FILO HIST",
+        "No tiene"
+    ],
+    "HIST3101": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HIST3103": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HIST3104": [
+        "No tiene",
+        "SOLO HIST",
+        "SOLO PR"
+    ],
+    "HIST3106": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HIST3511": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HIST3992": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "HIST3993": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "HIST4705": [
+        "No tiene",
+        "SOLO D-HIST M-HIST",
+        "SOLO DO MA"
+    ],
+    "HIST4707": [
+        "No tiene",
+        "SOLO D-HIST M-HIST",
+        "SOLO DO MA"
+    ],
+    "HIST4710": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "HIST4800": [
+        "No tiene",
+        "SOLO M-HIST",
+        "SOLO MA"
+    ],
+    "HIST4801": [
+        "No tiene",
+        "SOLO M-HIST",
+        "SOLO MA"
+    ],
+    "HIST4802": [
+        "No tiene",
+        "SOLO M-HIST",
+        "SOLO MA"
+    ],
+    "HIST6007": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6008": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6971": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6972": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6973": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6974": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6975": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6983": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6984": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6985": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "HIST6990": [
+        "No tiene",
+        "SOLO D-HIST",
+        "SOLO DO"
+    ],
+    "IBIO1010": [
+        "SOLO 0 1",
+        "SOLO EDIR IBIO",
+        "No tiene"
+    ],
+    "IBIO1011": [
+        "SOLO 0 1",
+        "No tiene",
+        "No tiene"
+    ],
+    "IBIO1110": [
+        "SOLO 0 1",
+        "No tiene",
+        "No tiene"
+    ],
+    "IBIO1999": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IBIO4217": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4217L": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4401": [
+        "No tiene",
+        "SOLO M-IBIO",
+        "SOLO MA"
+    ],
+    "IBIO4401L": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4411": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4501": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4680": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4701": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4702": [
+        "No tiene",
+        "SOLO M-IBIO",
+        "SOLO MA"
+    ],
+    "IBIO4704": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IBIO4770": [
+        "No tiene",
+        "SOLO M-IBIO",
+        "SOLO MA"
+    ],
+    "IBIO4780": [
+        "No tiene",
+        "SOLO M-IBIO",
+        "SOLO MA"
+    ],
+    "IBIO4790": [
+        "No tiene",
+        "SOLO M-IBIO",
+        "SOLO MA"
+    ],
+    "IBIO6002": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6003": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6004": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6005": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6402": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6961": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6962": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6963": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6970": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6980": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6981": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6982": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IBIO6990": [
+        "No tiene",
+        "SOLO D-INGE",
+        "No tiene"
+    ],
+    "ICYA1101": [
+        "No tiene",
+        "SOLO EDIR IAMB",
+        "No tiene"
+    ],
+    "ICYA1113": [
+        "No tiene",
+        "SOLO EDIR IAMB",
+        "No tiene"
+    ],
+    "ICYA1114": [
+        "No tiene",
+        "SOLO EDIR ICIV",
+        "No tiene"
+    ],
+    "ICYA2070": [
+        "No tiene",
+        "SOLO IAMB ICIV",
+        "No tiene"
+    ],
+    "ICYA2304": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA2402": [
+        "No tiene",
+        "SOLO IAMB ICIV",
+        "No tiene"
+    ],
+    "ICYA3078": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3079": [
+        "No tiene",
+        "SOLO IAMB",
+        "No tiene"
+    ],
+    "ICYA3102": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3103": [
+        "No tiene",
+        "SOLO IAMB",
+        "No tiene"
+    ],
+    "ICYA3104": [
+        "No tiene",
+        "SOLO IAMB ICIV",
+        "No tiene"
+    ],
+    "ICYA3107": [
+        "No tiene",
+        "SOLO IAMB",
+        "No tiene"
+    ],
+    "ICYA3108": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3202": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3203": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3305": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3306": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3307": [
+        "No tiene",
+        "SOLO ICIV",
+        "No tiene"
+    ],
+    "ICYA3401": [
+        "No tiene",
+        "SOLO IAMB ICIV",
+        "No tiene"
+    ],
+    "ICYA3406": [
+        "No tiene",
+        "SOLO IAMB",
+        "No tiene"
+    ],
+    "ICYA3408": [
+        "No tiene",
+        "SOLO IAMB",
+        "No tiene"
+    ],
+    "ICYA3501": [
+        "No tiene",
+        "SOLO IAMB",
+        "No tiene"
+    ],
+    "ICYA3601": [
+        "No tiene",
+        "SOLO IAMB",
+        "No tiene"
+    ],
+    "ICYA4070": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4071": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4102": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4126": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4203": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4206": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4209": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4211": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4212": [
+        "No tiene",
+        "SOLO M-IAMB M-ICIV M-MCIV",
+        "No tiene"
+    ],
+    "ICYA4213": [
+        "No tiene",
+        "SOLO M-IAMB M-ICIV",
+        "No tiene"
+    ],
+    "ICYA4214": [
+        "No tiene",
+        "SOLO M-IAMB M-ICIV",
+        "No tiene"
+    ],
+    "ICYA4216": [
+        "No tiene",
+        "SOLO M-IAMB M-ICIV",
+        "No tiene"
+    ],
+    "ICYA4217": [
+        "No tiene",
+        "SOLO M-IAMB M-ICIV",
+        "No tiene"
+    ],
+    "ICYA4218": [
+        "No tiene",
+        "SOLO M-IAMB M-ICIV",
+        "No tiene"
+    ],
+    "ICYA4290": [
+        "No tiene",
+        "SOLO M-CIVL M-IAMB M-ICIV M-MCIV",
+        "SOLO MA"
+    ],
+    "ICYA4291": [
+        "No tiene",
+        "SOLO M-CIVL M-IAMB M-ICIV M-MCIV",
+        "SOLO MA"
+    ],
+    "ICYA4292": [
+        "No tiene",
+        "SOLO M-CIVL M-IAMB M-ICIV M-MCIV",
+        "SOLO MA"
+    ],
+    "ICYA4293": [
+        "No tiene",
+        "SOLO M-CIVL M-IAMB M-ICIV M-MCIV",
+        "SOLO MA"
+    ],
+    "ICYA4301": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA PR"
+    ],
+    "ICYA4302": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4320": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA4350": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "ICYA6002": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6402": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6961": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6962": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6963": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6970": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6980": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6981": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6982": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6990": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6997": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ICYA6998": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "IELE1000": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1000C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1000L": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1002": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1006": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1010": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1010L": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1400": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1502": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE1999": [
+        "EXCLUYE 0 1 2 3",
+        "No tiene",
+        "No tiene"
+    ],
+    "IELE2000": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2002": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2002C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2100": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2206": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2210": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2300": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2402": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2500": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2500L": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2900": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE2901": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3000": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3001": [
+        "No tiene",
+        "SOLO IELE",
+        "SOLO PR"
+    ],
+    "IELE3002": [
+        "No tiene",
+        "SOLO IELC",
+        "SOLO PR"
+    ],
+    "IELE3004": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3006": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3006L": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3090": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3108": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3110": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3135": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3138": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3152": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3200": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3206": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3206L": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3208": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3330": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3338": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE3430": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IELE4000": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4001": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4002": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4003": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4005": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4009": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4010": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4011": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4014": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4020": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4021": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4024": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4070": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4100": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4102": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4114": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4204": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4313": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4412": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "IELE4429": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE4801": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IELE6002": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IELE6003": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IELE6007": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "IELE6402": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "IELE6970": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IELE6980": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IELE6981": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "IELE6982": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "IELE6983": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "IELE6990": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND1000": [
+        "No tiene",
+        "SOLO EDIR EXTE IIND",
+        "SOLO EX PR"
+    ],
+    "IIND1001": [
+        "No tiene",
+        "SOLO EDIR IIND",
+        "SOLO PR"
+    ],
+    "IIND1003": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2070": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2071": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2103": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2103C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2104": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2104C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2106": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2106C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2107": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2107C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2109": [
+        "SOLO 1 2 3 4",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND2109C": [
+        "SOLO 1 2 3 4",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND2201": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2201C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2202": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2202C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2301": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2301C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2302": [
+        "EXCLUYE 0",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2302C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2400": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2401": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND2401C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3000": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND3001": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND3006": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND3107": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3113": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3113C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3202": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3208": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3218": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3218C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3221": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3221C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3222": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3301": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO GOBI IIND",
+        "SOLO PR"
+    ],
+    "IIND3309": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND3311": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3311C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3312": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3400": [
+        "No tiene",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND3402": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "IIND3991": [
+        "No tiene",
+        "SOLO IIND",
+        "SOLO PR"
+    ],
+    "IIND4002": [
+        "No tiene",
+        "SOLO M-IIND M-INDU M-MIND",
+        "SOLO MA"
+    ],
+    "IIND4005": [
+        "No tiene",
+        "SOLO M-IIND M-INDU M-MIND",
+        "SOLO MA"
+    ],
+    "IIND4006": [
+        "No tiene",
+        "SOLO M-IIND M-INDU M-MIND",
+        "SOLO MA"
+    ],
+    "IIND4010": [
+        "No tiene",
+        "SOLO M-IIND M-INDU M-MIND",
+        "SOLO MA"
+    ],
+    "IIND4011": [
+        "No tiene",
+        "SOLO M-IIND M-INDU M-MIND",
+        "SOLO MA"
+    ],
+    "IIND4110": [
+        "No tiene",
+        "SOLO M-IIND M-INDU M-MIND",
+        "SOLO MA"
+    ],
+    "IIND4210": [
+        "No tiene",
+        "SOLO M-IIND M-INDU M-MIND",
+        "SOLO MA"
+    ],
+    "IIND4223": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "IIND4317": [
+        "No tiene",
+        "SOLO M-IIND M-MIND",
+        "SOLO MA"
+    ],
+    "IIND6002": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6003": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6402": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6970": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6980": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6981": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6982": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6990": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IIND6997": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IING3000": [
+        "No tiene",
+        "SOLO IAMB IBIO IELC IELE IIND IMEC IQUI ISIS",
+        "No tiene"
+    ],
+    "IMEC1001": [
+        "SOLO 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "IMEC3345": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "IMEC3700": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "No tiene",
+        "No tiene"
+    ],
+    "IMEC3702": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "IMEC4700": [
+        "No tiene",
+        "SOLO M-IMEC",
+        "SOLO MA"
+    ],
+    "IMEC4701": [
+        "No tiene",
+        "SOLO M-IMEC",
+        "SOLO MA"
+    ],
+    "IMEC4702": [
+        "No tiene",
+        "SOLO M-IMEC",
+        "SOLO MA"
+    ],
+    "IMEC4800": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IMEC4801": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IMEC6002": [
+        "No tiene",
+        "SOLO D-INGE",
+        "No tiene"
+    ],
+    "IMEC6003": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "IQUI3090": [
+        "SOLO 6 7 8 9 10 11 12 13 14",
+        "No tiene",
+        "No tiene"
+    ],
+    "IQUI3091": [
+        "SOLO 6 7 8 9 10 11 12 13 14 15",
+        "No tiene",
+        "No tiene"
+    ],
+    "IQUI3109": [
+        "SOLO 5 6 7 8 9 10 11",
+        "No tiene",
+        "No tiene"
+    ],
+    "IQUI4102": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IQUI4211": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IQUI4218": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IQUI4301": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IQUI4302": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IQUI4303": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IQUI4402": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "IQUI4511": [
+        "No tiene",
+        "SOLO IQUI M-DPRO M-IQUI",
+        "SOLO MA PR"
+    ],
+    "IQUI6402": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IQUI6970": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IQUI6980": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IQUI6981": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IQUI6982": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IQUI6990": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "IQUI6997": [
+        "No tiene",
+        "SOLO D-INGE",
+        "SOLO DO"
+    ],
+    "ISIS1001": [
+        "No tiene",
+        "SOLO EDIR ISIS",
+        "No tiene"
+    ],
+    "ISIS2503": [
+        "No tiene",
+        "SOLO ISIS",
+        "No tiene"
+    ],
+    "ISIS3007": [
+        "No tiene",
+        "SOLO ISIS",
+        "No tiene"
+    ],
+    "ISIS3991": [
+        "No tiene",
+        "SOLO ISIS",
+        "No tiene"
+    ],
+    "ISIS4000": [
+        "No tiene",
+        "SOLO M-ARTI M-ISIS M-MISI M-SIST",
+        "SOLO MA"
+    ],
+    "ISIS4001": [
+        "No tiene",
+        "SOLO M-ARTI M-ISIS M-MISI M-SIST",
+        "SOLO MA"
+    ],
+    "ISIS4002": [
+        "No tiene",
+        "SOLO M-ISIS M-MISI M-SIST",
+        "SOLO MA"
+    ],
+    "ISIS4005": [
+        "No tiene",
+        "SOLO M-ISIS M-MISI M-SIST",
+        "SOLO MA"
+    ],
+    "ISIS6002": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ISIS6402": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ISIS6980": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ISIS6981": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ISIS6982": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ISIS6983": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ISIS6990": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "ISIS6997": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "LEGI5501": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "LEGI5503": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "LEGI5505": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "LENG1065": [
+        "No tiene",
+        "SOLO LENG",
+        "No tiene"
+    ],
+    "LENG1066": [
+        "No tiene",
+        "SOLO LENG",
+        "No tiene"
+    ],
+    "LENG1119": [
+        "No tiene",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG1130": [
+        "No tiene",
+        "SOLO CONT",
+        "No tiene"
+    ],
+    "LENG2226": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "LENG2227": [
+        "No tiene",
+        "SOLO LENG",
+        "No tiene"
+    ],
+    "LENG3001": [
+        "No tiene",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG3921": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO LENG",
+        "No tiene"
+    ],
+    "LENG3922": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG3931": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO LENG",
+        "No tiene"
+    ],
+    "LENG3974": [
+        "No tiene",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG3975": [
+        "No tiene",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG3976": [
+        "No tiene",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG3983": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG3987": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO LCUL",
+        "No tiene"
+    ],
+    "LENG3989": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "LENG3993": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "LENG3995": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "SOLO EDIR LENG",
+        "No tiene"
+    ],
+    "LENG4001": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES MA"
+    ],
+    "LENG4994": [
+        "No tiene",
+        "SOLO M-EDIB",
+        "SOLO MA"
+    ],
+    "LENG4997": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES MA"
+    ],
+    "LENG4998": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES MA"
+    ],
+    "LENG4999": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "LENG6991": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "LENG6992": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "LENG6993": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "LENG6994": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "LITE2101": [
+        "No tiene",
+        "SOLO LITE",
+        "No tiene"
+    ],
+    "LITE3330": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "LITE3347": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "LITE3602": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "LITE3603": [
+        "EXCLUYE 0 1 2 3 4",
+        "No tiene",
+        "No tiene"
+    ],
+    "LITE3903": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "LITE3904": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "LITE3905": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "LITE3993": [
+        "EXCLUYE 0 1 2 3 4 5 6",
+        "No tiene",
+        "No tiene"
+    ],
+    "MADM4051": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4052": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4100": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4151": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4153": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4154": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4206": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4303": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO DO MA"
+    ],
+    "MADM4450": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4550": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4551": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4650": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4701": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4909": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MADM4917": [
+        "No tiene",
+        "SOLO M-MATP M-MBAP M-MBAT",
+        "SOLO MA"
+    ],
+    "MART4000": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MART4001": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MART4002": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MATE1105": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE1106": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE1207": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE1213": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE1251": [
+        "No tiene",
+        "SOLO CONT EDIR",
+        "No tiene"
+    ],
+    "MATE1506": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE1507": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE1508": [
+        "No tiene",
+        "SOLO CONT EDIR",
+        "No tiene"
+    ],
+    "MATE2201": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE2210": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE2301": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE2510": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE3121": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MATE3420": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MATE3801": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MATE3802": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MATE3992": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MATE4001": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MATE4002": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MATE4120": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MATE4173": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MATE4330": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA PR"
+    ],
+    "MATE4901": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MATE4902": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MATE4903": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MATE4904": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MATE4990": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MATE6901": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6902": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6903": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6904": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6970": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6971": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6975": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6979": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6980": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6981": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6982": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6984": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6989": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MATE6990": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO"
+    ],
+    "MBAE4122": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4132": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4211": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4237": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4423": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4543": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4631": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4653": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4655": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBAE4713": [
+        "No tiene",
+        "SOLO M-MBAE",
+        "SOLO MA"
+    ],
+    "MBIO1100": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MBIO1100C": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO1101": [
+        "No tiene",
+        "No tiene",
+        "SOLO EX PR"
+    ],
+    "MBIO1280A": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO1282B": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2100": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2101": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2102": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2103": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2300": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2301": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2302": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2303": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2304": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2305": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2306": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2307": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2310": [
+        "EXCLUYE 0 1 2",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MBIO2310C": [
+        "EXCLUYE 0 1 2",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MBIO2400": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2401": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2500": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO2501": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO3100": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO3101": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO3502": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MBIO3503": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MBIO3513": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO3518": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO3600": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3601": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3602": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3603": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3604": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3605": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3912": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3913": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3914": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO3915": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MBIO3991": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIO3993": [
+        "No tiene",
+        "SOLO BIOL MICR",
+        "SOLO PR"
+    ],
+    "MBIT4005": [
+        "No tiene",
+        "SOLO M-MBIT",
+        "SOLO MA"
+    ],
+    "MBIT4301": [
+        "No tiene",
+        "SOLO M-MBIT",
+        "SOLO MA"
+    ],
+    "MBIT4302": [
+        "No tiene",
+        "SOLO M-MBIT",
+        "SOLO MA"
+    ],
+    "MBIT4303": [
+        "No tiene",
+        "SOLO M-MBIT",
+        "SOLO MA"
+    ],
+    "MBIT4304": [
+        "No tiene",
+        "SOLO M-MBIT",
+        "SOLO MA"
+    ],
+    "MDER4202": [
+        "No tiene",
+        "SOLO M-DERE",
+        "SOLO DO MA"
+    ],
+    "MDER4203": [
+        "No tiene",
+        "SOLO M-DERE",
+        "SOLO MA"
+    ],
+    "MDER4401": [
+        "No tiene",
+        "SOLO M-DERE",
+        "SOLO MA"
+    ],
+    "MDIS4105": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4203": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4307": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4309": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4401": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4402": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4501": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4601": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4701": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4801": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MDIS4990": [
+        "No tiene",
+        "SOLO M-DISE",
+        "SOLO MA"
+    ],
+    "MECA4109": [
+        "No tiene",
+        "SOLO M-ECAP",
+        "SOLO MA"
+    ],
+    "MECA4202": [
+        "No tiene",
+        "SOLO ECON M-ECAP M-ECON",
+        "SOLO MA PR"
+    ],
+    "MECA4302": [
+        "No tiene",
+        "SOLO ECON M-ECAP M-ECON",
+        "SOLO MA PR"
+    ],
+    "MECA4402": [
+        "No tiene",
+        "SOLO ECON M-ECAP M-ECON",
+        "SOLO MA PR"
+    ],
+    "MECA4501": [
+        "No tiene",
+        "SOLO M-ECAP",
+        "SOLO MA"
+    ],
+    "MECU4109": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MECU4202": [
+        "No tiene",
+        "SOLO M-ECUL",
+        "SOLO MA"
+    ],
+    "MECU4203": [
+        "No tiene",
+        "SOLO M-ECUL",
+        "SOLO MA"
+    ],
+    "MEDI1000": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1100": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1101": [
+        "No tiene",
+        "SOLO EDIR EXTE MEDI",
+        "SOLO EX PR"
+    ],
+    "MEDI1102": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1103": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1104": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1105": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1106": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1200": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1208": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1209": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1210": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1211": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1212": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1216": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI1218": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MEDI1999": [
+        "No tiene",
+        "SOLO EDIR MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2000": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2107": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2108": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2109": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2110": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2300": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2301": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2303": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2304": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2305": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2306": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2307": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2308": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2309": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2310": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2311": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2312": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI2313": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3111": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3112": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3113": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3114": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3400": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3403": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3406": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3407": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3408": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3409": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3410": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3411": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3412": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3413": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3414": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3415": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3416": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3417": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3418": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3420": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3422": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3423": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3424": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3425": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3426": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3427": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3429": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3430": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3432": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3433": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3434": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3435": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3436": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3437": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3438": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3439": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3440": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3441": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3442": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3443": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3500": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3501": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3502": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3503": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3504": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3515": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3516": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3517": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3518": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3519": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3520": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3521": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3522": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3523": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3524": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3525": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3526": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3527": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3528": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3529": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3530": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3531": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3532": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3533": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3534": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3535": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3536": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3537": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3538": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3539": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3540": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3541": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3542": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3543": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3544": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3547": [
+        "No tiene",
+        "SOLO MEDI",
+        "SOLO PR"
+    ],
+    "MEDI3548": [
+        "No tiene",
+        "SOLO BIOL IBIO MEDI MICR",
+        "SOLO PR"
+    ],
+    "MFIN4203": [
+        "No tiene",
+        "SOLO M-FINZ",
+        "SOLO MA"
+    ],
+    "MFIN4206": [
+        "No tiene",
+        "SOLO M-FINZ",
+        "SOLO MA"
+    ],
+    "MFIN4210": [
+        "No tiene",
+        "SOLO M-FINZ",
+        "SOLO MA"
+    ],
+    "MFIN4216": [
+        "No tiene",
+        "SOLO M-FINZ",
+        "SOLO MA"
+    ],
+    "MFIN4255": [
+        "No tiene",
+        "SOLO M-FINZ",
+        "SOLO MA"
+    ],
+    "MFIN4256": [
+        "No tiene",
+        "SOLO M-FINZ",
+        "SOLO MA"
+    ],
+    "MGAD4301": [
+        "No tiene",
+        "SOLO M-GAMB M-MGPD",
+        "SOLO MA"
+    ],
+    "MGAD4401": [
+        "No tiene",
+        "SOLO M-GAMB M-MGPD",
+        "SOLO MA"
+    ],
+    "MGAD4501": [
+        "No tiene",
+        "SOLO M-GAMB M-MGPD",
+        "SOLO MA"
+    ],
+    "MGAD4601": [
+        "No tiene",
+        "SOLO M-GAMB M-MGPD",
+        "SOLO MA"
+    ],
+    "MGAD4602": [
+        "No tiene",
+        "SOLO M-GAMB M-MGPD",
+        "No tiene"
+    ],
+    "MGAP4406": [
+        "No tiene",
+        "SOLO M-GAMB",
+        "SOLO MA"
+    ],
+    "MGAP4414": [
+        "No tiene",
+        "SOLO M-GAMB",
+        "SOLO MA"
+    ],
+    "MGAP4422": [
+        "No tiene",
+        "SOLO M-GAMB",
+        "SOLO MA"
+    ],
+    "MGEO4501": [
+        "No tiene",
+        "SOLO M-GEOG",
+        "SOLO MA"
+    ],
+    "MGEO4502": [
+        "No tiene",
+        "SOLO M-GEOG",
+        "SOLO MA"
+    ],
+    "MGEO4503": [
+        "No tiene",
+        "SOLO M-GEOG",
+        "SOLO MA"
+    ],
+    "MGEO4504": [
+        "No tiene",
+        "SOLO M-GEOG",
+        "SOLO MA"
+    ],
+    "MGPA4101": [
+        "No tiene",
+        "SOLO M-MGPA",
+        "No tiene"
+    ],
+    "MGPA4201": [
+        "No tiene",
+        "SOLO M-MGPA",
+        "No tiene"
+    ],
+    "MGPA4202": [
+        "No tiene",
+        "SOLO M-MGPA",
+        "No tiene"
+    ],
+    "MGPA4301": [
+        "No tiene",
+        "SOLO M-MGPA",
+        "No tiene"
+    ],
+    "MGPD4407": [
+        "No tiene",
+        "SOLO M-MGPD",
+        "SOLO MA"
+    ],
+    "MGPD4444": [
+        "No tiene",
+        "SOLO M-MGPD",
+        "SOLO MA"
+    ],
+    "MHAR4002": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA"
+    ],
+    "MHAR4008": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MHAR4017": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MHAR4018": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MHAR4019": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MIAD4100": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4101": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4102": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4103": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4500": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4501": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4970": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "No tiene"
+    ],
+    "MIAD4971": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4979": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4980": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4982": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIAD4988": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "No tiene"
+    ],
+    "MIAD4990": [
+        "No tiene",
+        "SOLO D-ADMI M-MIAD",
+        "SOLO DO MA"
+    ],
+    "MIIA4001": [
+        "No tiene",
+        "SOLO M-IATD",
+        "No tiene"
+    ],
+    "MIIA4002": [
+        "No tiene",
+        "SOLO M-IATD",
+        "No tiene"
+    ],
+    "MIIA4005": [
+        "No tiene",
+        "SOLO M-IATD",
+        "No tiene"
+    ],
+    "MIIA4200": [
+        "No tiene",
+        "SOLO M-IATD",
+        "No tiene"
+    ],
+    "MIIA4202": [
+        "No tiene",
+        "SOLO M-IATD",
+        "No tiene"
+    ],
+    "MINE4005": [
+        "No tiene",
+        "SOLO M-MINE",
+        "SOLO MA"
+    ],
+    "MINE4301": [
+        "No tiene",
+        "SOLO M-MINE",
+        "SOLO MA"
+    ],
+    "MINE4302": [
+        "No tiene",
+        "SOLO M-MINE",
+        "SOLO MA"
+    ],
+    "MISO4005": [
+        "No tiene",
+        "SOLO M-MISO",
+        "SOLO MA"
+    ],
+    "MISO4301": [
+        "No tiene",
+        "SOLO M-MISO",
+        "SOLO MA"
+    ],
+    "MISO4302": [
+        "No tiene",
+        "SOLO M-MISO",
+        "SOLO MA"
+    ],
+    "MISO4303": [
+        "No tiene",
+        "SOLO M-MISO",
+        "SOLO MA"
+    ],
+    "MLIT4122": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MLIT4300": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MLIT4500": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MLIT4501": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MLIT4509": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MLIT4520": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO MA"
+    ],
+    "MLIT4902": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MLIT4904": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MLIT4905": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MMER4300": [
+        "No tiene",
+        "SOLO M-MERC",
+        "SOLO MA"
+    ],
+    "MMER4302": [
+        "No tiene",
+        "SOLO M-MERC",
+        "SOLO MA"
+    ],
+    "MMER4307": [
+        "No tiene",
+        "SOLO M-MERC",
+        "SOLO MA"
+    ],
+    "MMER4309": [
+        "No tiene",
+        "SOLO M-MERC",
+        "SOLO MA"
+    ],
+    "MMER4337": [
+        "No tiene",
+        "SOLO M-MERC",
+        "SOLO MA"
+    ],
+    "MMER4339": [
+        "No tiene",
+        "SOLO M-MERC",
+        "SOLO MA"
+    ],
+    "MMER4400": [
+        "No tiene",
+        "SOLO M-MERC",
+        "SOLO MA"
+    ],
+    "MPAZ4000": [
+        "No tiene",
+        "SOLO M-MPAZ",
+        "SOLO MA"
+    ],
+    "MPAZ4100": [
+        "No tiene",
+        "SOLO M-MPAZ",
+        "SOLO MA"
+    ],
+    "MPAZ4200": [
+        "No tiene",
+        "SOLO M-MPAZ",
+        "SOLO MA"
+    ],
+    "MPAZ4300": [
+        "No tiene",
+        "SOLO M-MPAZ",
+        "No tiene"
+    ],
+    "MPAZ4800": [
+        "No tiene",
+        "SOLO M-MPAZ",
+        "SOLO MA"
+    ],
+    "MPER4301": [
+        "No tiene",
+        "SOLO M-PERI",
+        "No tiene"
+    ],
+    "MPER4403": [
+        "No tiene",
+        "SOLO M-PERI",
+        "No tiene"
+    ],
+    "MPER4408": [
+        "No tiene",
+        "SOLO M-PERI",
+        "No tiene"
+    ],
+    "MPER4501": [
+        "No tiene",
+        "SOLO M-PERI",
+        "No tiene"
+    ],
+    "MPET4102": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4110": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4211": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4310": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4401": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4500": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4501": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4900": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MPET4901": [
+        "No tiene",
+        "SOLO M-MPET",
+        "No tiene"
+    ],
+    "MSIN4005": [
+        "No tiene",
+        "SOLO M-MSIN",
+        "SOLO MA"
+    ],
+    "MSIN4301": [
+        "No tiene",
+        "SOLO M-MSIN",
+        "SOLO MA"
+    ],
+    "MSIN4302": [
+        "No tiene",
+        "SOLO M-MSIN",
+        "SOLO MA"
+    ],
+    "MSIN4303": [
+        "No tiene",
+        "SOLO M-MSIN",
+        "SOLO MA"
+    ],
+    "MTRI4202": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MTRI4301": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MTRI4401": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MUIJ1101": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1102": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1103": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1104": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1105": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1106": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1201": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1202": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1203": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1204": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1301": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1313": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1401": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1402": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1403": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1404": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1405": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1614": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1616": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1617": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1618": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1619": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1621": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1701": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1702": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1805": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1901": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ1905": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2101": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2102": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2103": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2104": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2105": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2301": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2302": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2303": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2304": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2305": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2403": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2407": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2513": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2514": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2515": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2516": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2517": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2518": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ2519": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3001": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3002": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3003": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3004": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3005": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3006": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3007": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3008": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3011": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3012": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3013": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3014": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3015": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3017": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3018": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3019": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3028": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3033": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3034": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3040": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3042": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3043": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3049": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3050": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3051": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3052": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3053": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3054": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3058": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3059": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3060": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3061": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3065": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3068": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3082": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3083": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3129": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3145": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3146": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3148": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3149": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3161": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3193": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3194": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3196": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3197": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3198": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3199": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3200": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3201": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3202": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3209": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUIJ3229": [
+        "No tiene",
+        "SOLO MUIJ",
+        "No tiene"
+    ],
+    "MUSI0001": [
+        "No tiene",
+        "SOLO MUSI",
+        "No tiene"
+    ],
+    "MUSI1135": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI1202": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1203": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1204": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1205": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1206": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1207": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1208": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1209": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1210": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1400": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1404": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1415": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1416": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1417": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1600": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1601": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1602": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1603": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1610": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI1611": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1802": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1807": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI1808": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI1813": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI1815": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI1826": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI1830": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1831": [
+        "No tiene",
+        "SOLO EDIR MUSI",
+        "SOLO PR"
+    ],
+    "MUSI1910": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2200": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2201": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2202": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2203": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2204": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2205": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2206": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2208": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2209": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2210": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2211": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2212": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2213": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2400": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2401": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2402": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2403": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2407": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2408": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2414": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2415": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2416": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2417": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2420": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2500": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2501": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2502": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2503": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2504": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2505": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2512": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2513": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2514": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2515": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2602": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2606": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2608": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2612": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2613": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2619": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2621": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2622": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2700": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2821": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2822": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2823": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI2824": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3302": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3303": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3313": [
+        "No tiene",
+        "SOLO MUSI",
+        "No tiene"
+    ],
+    "MUSI3400": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3401": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3402": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3403": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3404": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3405": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3406": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3413": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3414": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3500": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3501": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3502": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3503": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3504": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3511": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3512": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3513": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3515": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3516": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3601": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3606": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3607": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3610": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3611": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3612": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3613": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3614": [
+        "No tiene",
+        "SOLO MUSI",
+        "No tiene"
+    ],
+    "MUSI3616": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3618": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3619": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3620": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI3992": [
+        "No tiene",
+        "No tiene",
+        "SOLO PR"
+    ],
+    "MUSI3998": [
+        "No tiene",
+        "SOLO MUSI",
+        "SOLO PR"
+    ],
+    "MUSI4007": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MUSI4016": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MUSI4017": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "MUSI4018": [
+        "No tiene",
+        "No tiene",
+        "SOLO MA"
+    ],
+    "PSCL4100": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4102": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4104": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4105": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4106": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4108": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4109": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4110": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4112": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4113": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4120": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4209": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSCL4400": [
+        "No tiene",
+        "SOLO M-PSCL",
+        "No tiene"
+    ],
+    "PSIC1402": [
+        "SOLO 0 1",
+        "SOLO ANTR CPOL EDIR FILO HIST LEDI LENG PSIC",
+        "No tiene"
+    ],
+    "PSIC2600": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO EDIR PSIC",
+        "No tiene"
+    ],
+    "PSIC2601": [
+        "No tiene",
+        "SOLO EDIR PSIC",
+        "No tiene"
+    ],
+    "PSIC2602": [
+        "No tiene",
+        "SOLO EDIR PSIC",
+        "No tiene"
+    ],
+    "PSIC2706": [
+        "No tiene",
+        "SOLO ANTR CPOL EDIR FILO HIST LENG PSIC",
+        "No tiene"
+    ],
+    "PSIC3705": [
+        "EXCLUYE 0 1 2 3 4 5",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3706": [
+        "No tiene",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3707": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3708": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3800": [
+        "No tiene",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3801": [
+        "No tiene",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3811": [
+        "No tiene",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3812": [
+        "No tiene",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3814": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3815": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3830": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3866": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3876": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3890": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3892": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3915": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3923": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3925": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3930": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3932": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3947": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3952": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3960": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3961": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3962": [
+        "EXCLUYE 0 1 2 3",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3968": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3982": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC3987": [
+        "EXCLUYE 0 1 2 3 4",
+        "SOLO PSIC",
+        "No tiene"
+    ],
+    "PSIC4100": [
+        "No tiene",
+        "SOLO M-PSIC",
+        "SOLO MA"
+    ],
+    "PSIC4106": [
+        "No tiene",
+        "SOLO M-PSIC",
+        "SOLO MA"
+    ],
+    "PSIC4107": [
+        "No tiene",
+        "SOLO M-PSIC",
+        "SOLO MA"
+    ],
+    "PSIC4108": [
+        "No tiene",
+        "SOLO M-PSIC",
+        "SOLO MA"
+    ],
+    "PSIC4237": [
+        "No tiene",
+        "SOLO D-PSIC M-PSIC",
+        "SOLO DO MA"
+    ],
+    "PSIC4890": [
+        "No tiene",
+        "SOLO M-PSIC",
+        "No tiene"
+    ],
+    "PSIC4891": [
+        "No tiene",
+        "SOLO M-PSIC",
+        "No tiene"
+    ],
+    "PSIC6400": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "PSIC6970": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "PSIC6973": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "PSIC6980": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "PSIC6981": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "PSIC6982": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "PSIC6990": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "PSIC6992": [
+        "No tiene",
+        "SOLO D-PSIC",
+        "No tiene"
+    ],
+    "QUIM1105": [
+        "No tiene",
+        "SOLO EDIR IBIO IQUI",
+        "No tiene"
+    ],
+    "QUIM1110": [
+        "No tiene",
+        "SOLO EDIR QUIM",
+        "No tiene"
+    ],
+    "QUIM1301": [
+        "No tiene",
+        "SOLO IBIO MEDI",
+        "No tiene"
+    ],
+    "QUIM1303": [
+        "No tiene",
+        "SOLO BIOL EDIR IBIO MICR",
+        "No tiene"
+    ],
+    "QUIM1310": [
+        "No tiene",
+        "SOLO EDIR QUIM",
+        "No tiene"
+    ],
+    "QUIM4013": [
+        "No tiene",
+        "SOLO D-CQUI M-MIQU",
+        "No tiene"
+    ],
+    "QUIM4100": [
+        "No tiene",
+        "SOLO D-CQUI M-QUIM",
+        "No tiene"
+    ],
+    "RHID5110": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "RHID5111": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "RHID5112": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "RHID5113": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "RJUR5574": [
+        "No tiene",
+        "SOLO E-RJUR",
+        "SOLO ES"
+    ],
+    "RJUR5584": [
+        "No tiene",
+        "SOLO E-RJUR",
+        "SOLO ES"
+    ],
+    "SICO5501": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "SICO5503": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "SPUB4104": [
+        "No tiene",
+        "SOLO M-SPUB",
+        "SOLO MA"
+    ],
+    "SPUB4106": [
+        "No tiene",
+        "SOLO M-SPUB",
+        "SOLO MA"
+    ],
+    "SPUB4108": [
+        "No tiene",
+        "SOLO M-SPUB",
+        "SOLO MA"
+    ],
+    "SPUB4109": [
+        "No tiene",
+        "SOLO M-SPUB",
+        "SOLO MA"
+    ],
+    "SPUB4110": [
+        "No tiene",
+        "SOLO M-SPUB",
+        "SOLO MA"
+    ],
+    "STRA5401": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "STRA5412": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "STRA5417": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ],
+    "STRA5419": [
+        "No tiene",
+        "No tiene",
+        "SOLO DO ES MA"
+    ],
+    "STRA5421": [
+        "No tiene",
+        "No tiene",
+        "SOLO ES"
+    ]
+}
