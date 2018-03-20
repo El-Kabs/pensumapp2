@@ -29,6 +29,7 @@ export class App extends Component {
   };
 
   render() {
+    var texto = "";
     return (
       <div>
         {this.state.isMounted && !window.devToolsExtension && process.env.NODE_ENV === 'development' && <DevTools />}
@@ -48,6 +49,7 @@ export class App extends Component {
               },
             ]}
           />
+
           <Header
             switchLanguage={lang => this.props.dispatch(switchLanguage(lang))}
             intl={this.props.intl}
@@ -55,6 +57,24 @@ export class App extends Component {
           />
           <div className={styles.container}>
             {this.props.children}
+            <div className = {styles.envios}>
+                <input placeholder = 'Primer Semestre' className = 'Primero'/>
+                <button>Enviar</button>
+                <input placeholder = 'Segundo Semestre' className = 'Segundo'/>
+                <button>Enviar</button>
+                <input placeholder = 'Tercer Semestre' className = 'Tercer'/>
+                <button>Enviar</button>
+                <input placeholder = 'Cuarto Semestre' className = 'Cuarto'/>
+                <button>Enviar</button>
+                <input placeholder = 'Quinto Semestre' className = 'Quinto'/>
+                <button>Enviar</button>
+                <input placeholder = 'Sexto Semestre' className = 'Sexto'/>
+                <button>Enviar</button>
+                <input placeholder = 'Septimo Semestre' className = 'Septimo'/>
+                <button>Enviar</button>
+                <input placeholder = 'Octavo Semestre' className = 'Octavo'/>
+                <button>Enviar</button>
+            </div>
           </div>
           <Footer />
         </div>

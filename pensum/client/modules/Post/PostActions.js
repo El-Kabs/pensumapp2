@@ -1,19 +1,17 @@
 import callApi from '../../util/apiCaller';
 
 // Export Constants
-export const ADD_POST = 'ADD_POST';
-export const ADD_POSTS = 'ADD_POSTS';
-export const DELETE_POST = 'DELETE_POST';
+export const GET_MATERIA = 'ADD_MATERIA';
 
 // Export Actions
-export function addPost(post) {
+export function addMateria(post) {
   return {
-    type: ADD_POST,
+    type: ADD_MATERIA,
     post,
   };
 }
 
-export function addPostRequest(post) {
+export function addMateriaRequest(post) {
   return (dispatch) => {
     return callApi('posts', 'post', {
       post: {
@@ -25,36 +23,23 @@ export function addPostRequest(post) {
   };
 }
 
-export function addPosts(posts) {
+export function addMaterias(posts) {
   return {
     type: ADD_POSTS,
     posts,
   };
 }
 
-export function fetchPosts() {
+export function fetchMaterias() {
   return (dispatch) => {
-    return callApi('posts').then(res => {
+    return callApi('materias').then(res => {
       dispatch(addPosts(res.posts));
     });
   };
 }
 
-export function fetchPost(cuid) {
+export function fetchMateria(codigo) {
   return (dispatch) => {
-    return callApi(`posts/${cuid}`).then(res => dispatch(addPost(res.post)));
-  };
-}
-
-export function deletePost(cuid) {
-  return {
-    type: DELETE_POST,
-    cuid,
-  };
-}
-
-export function deletePostRequest(cuid) {
-  return (dispatch) => {
-    return callApi(`posts/${cuid}`, 'delete').then(() => dispatch(deletePost(cuid)));
+    return callApi(`materias/${codigo}`).then(res => dispatch(addPost(res.post)));
   };
 }
