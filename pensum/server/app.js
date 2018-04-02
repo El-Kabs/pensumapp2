@@ -34,7 +34,7 @@ const port = process.env.PORT || 8000;
 
 // Conectar la base de datos
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost:27017/Materias', (error) => {
+mongoose.connect('mongodb://172.24.42.82:27017/Materias', (error) => {
   if (error) {
     console.error('Please make sure Mongodb is installed and running!'); // eslint-disable-line no-console
     throw error;
@@ -55,7 +55,7 @@ app.get('/', (req, res) => {
 
 // 404
 app.use((req, res, next) => {
-  res.status(404).send('<h2 align=center> Pagina no encontrada. </h2>');
+  res.status(404).send('<h2 align=center>404 Pagina no encontrada. </h2>');
 });
 
 // Iniciar servidor
