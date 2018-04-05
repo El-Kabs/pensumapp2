@@ -34,7 +34,8 @@ const port = process.env.PORT || 8000;
 
 // Conectar la base de datos
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://172.24.42.82:27017/Materias', (error) => {
+mongoose.connect('mongodb://kabs:kabs83@ds014118.mlab.com:14118/materias', (error) => {
+  console.log('Conectado');
   if (error) {
     console.error('Please make sure Mongodb is installed and running!'); // eslint-disable-line no-console
     throw error;
