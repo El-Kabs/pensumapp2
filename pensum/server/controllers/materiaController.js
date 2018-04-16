@@ -4,9 +4,10 @@ import mongoose from 'mongoose';
 // Importar modelos
 import Materia from '../models/materiaModel';
 
+mongoose.set('debug');
 // GET de materias
 export const getMaterias = (req, res) => {
-  Materia.find().exec((err, materias) => {
+  Materia.find({}).exec((err, materias) => {
     if(err){
       return res.json({'success':false, 'message':'Error xd','error':err});
     }
@@ -38,7 +39,9 @@ export const updateMateria = (req, res) => {
 
 // GET de materia por ID
 export const getMateria = (req, res) => {
-  var cod = req.params.codigo
+  var cod = req.params.codigo;
+  var algo = '"'+cod+'"';
+  mongoose.set('debug', true);
   Materia.find({[cod]: {$exists: true}}).exec((err, materia) => {
     if(err){
       return res.json({'success':false,'message':'Error xd','error':err});

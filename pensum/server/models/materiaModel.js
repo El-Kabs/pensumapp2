@@ -13,7 +13,7 @@ const materiaSchema = new Schema({
     restriccionP: {type: String},
     Prerrequisitos: {type: String},
     Correquisitos: {type: String},
-});
+}, { collection: 'Materias' });
 
 // Exportar el esquema
 export default mongoose.model('Materia', materiaSchema);

@@ -55,9 +55,9 @@ app.get('/', (req, res) => {
 });
 
 // 404
-app.use((req, res, next) => {
-  res.status(404).send('<h2 align=center>404 Pagina no encontrada. </h2>');
-});
+//app.use((req, res, next) => {
+//  res.status(404).send('<h2 align=center>404 Pagina no encontrada. </h2>');
+//});
 
 // Iniciar servidor
 app.listen(port, () => {
