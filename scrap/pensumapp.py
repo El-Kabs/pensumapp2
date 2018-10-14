@@ -17,7 +17,7 @@ for b in prefijos:
             pass
         else:
             ultimo = str(x['class']+x["course"])
-            retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ')
+            retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ').replace("\\", "")
             retorno['coreq'] = x['coreq']
             retorno['prereq'] = x['prereq']
             retorno['restr'] = x['restr']
@@ -37,7 +37,7 @@ for b in prefijos:
             pass
         else:
             ultimo = str(x['class']+x["course"])
-            retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ')
+            retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ').replace("\\", "")
             retorno['coreq'] = x['coreq']
             retorno['prereq'] = x['prereq']
             retorno['restr'] = x['restr']
@@ -57,7 +57,7 @@ for b in prefijos:
             pass
         else:
             ultimo = str(x['class']+x["course"])
-            retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ')
+            retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ').replace("\\", "")
             retorno['coreq'] = x['coreq']
             retorno['prereq'] = x['prereq']
             retorno['restr'] = x['restr']
@@ -67,4 +67,4 @@ for b in prefijos:
     print("Van: "+str(i)+" de "+str(cuantos))
 
 with open('materiasFinal.json', "w") as f:
-    f.write(str(retornar).replace('\'', '\"').replace("\xa0", " ").replace('xa0', ' '))
+    f.write(str(retornar).replace('\'', '\"').replace("\xa0", " ").replace('xa0', ' ').replace("\\", ""))
