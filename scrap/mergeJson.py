@@ -6,14 +6,14 @@ prer = {}
 materiasRestric = {}
 materiasCompleta = {}
 retornar = {"records":[]}
-with open('materias.json') as json_data:
+with open('materias.json', 'rb') as json_data:
     d = json.load(json_data)
     for x in d:
         materiaNombre = x['Informacion']['Nombre']
         creditos = x['Informacion']['Creditos']
         valores = [materiaNombre, creditos]
         materias[x['Materia']] = valores
-with open('restricciones2.json') as restricciones_data:
+with open('restricciones2.json', 'rb') as restricciones_data:
     d = json.load(restricciones_data)
     for x in d:
         semestre = x['Restricciones']['Semestre']
@@ -21,7 +21,7 @@ with open('restricciones2.json') as restricciones_data:
         nivel = x['Restricciones']['Nivel']
         valores = [semestre, programa, nivel]
         restricciones[x['Materia']] = valores
-with open('prerrequisitos.json') as prerrequisitos_data:
+with open('prerrequisitos.json', 'rb') as prerrequisitos_data:
     d = json.load(prerrequisitos_data)
     for x in d:
         pre = x['Requisitos']['Prerrequisitos']
@@ -62,6 +62,7 @@ for k, v in materiasRestric.items():
 print(len(materias))
 print(len(materiasRestric))
 print(len(materiasCompleta))
+
 for k, v in materiasCompleta.items():
     retornar["records"].append({'Codigo': k, 'Nombre': v[0], 'Creditos':v[1], 'RestriccionSemestre':v[2], 'RestriccionPrograma':v[3], 'RestriccionNivel':v[4], 'Prerrequisitos':v[5], 'Correquisitos':v[6]})
 
