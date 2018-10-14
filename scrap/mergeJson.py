@@ -66,7 +66,7 @@ for k, v in materiasCompleta.items():
     retornar["records"].append({'Codigo': k, 'Nombre': v[0], 'Creditos':v[1], 'RestriccionSemestre':v[2], 'RestriccionPrograma':v[3], 'RestriccionNivel':v[4], 'Prerrequisitos':v[5], 'Correquisitos':v[6]})
 
 with open('materiasCompletas.json', "w") as f:
-            f.write(str(retornar).replace('\'', '\"'))
+            f.write(str(retornar).replace('\'', '\"').replace(u'\xa0', u' '))
 with open("merge.json", "w") as outfile:
     json.dump({k:{'Nombre': v[0], 'Creditos':v[1], 'RestriccionSemestre':v[2], 'RestriccionPrograma':v[3], 'RestriccionNivel':v[4], 'Prerrequisitos':v[5], 'Correquisitos':v[6]} for k,v in materiasCompleta.items()}, outfile, indent=4)
 
