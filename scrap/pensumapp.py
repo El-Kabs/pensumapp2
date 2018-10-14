@@ -18,6 +18,8 @@ for b in prefijos:
         else:
             ultimo = str(x['class']+x["course"])
             retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ').replace("\\", "")
+            retorno['depto'] = x['class']
+            retorno['cod'] = x['course']
             retorno['coreq'] = x['coreq']
             retorno['prereq'] = x['prereq']
             retorno['restr'] = x['restr']
@@ -38,6 +40,8 @@ for b in prefijos:
         else:
             ultimo = str(x['class']+x["course"])
             retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ').replace("\\", "")
+            retorno['depto'] = x['class']
+            retorno['cod'] = x['course']
             retorno['coreq'] = x['coreq']
             retorno['prereq'] = x['prereq']
             retorno['restr'] = x['restr']
@@ -58,6 +62,8 @@ for b in prefijos:
         else:
             ultimo = str(x['class']+x["course"])
             retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ').replace("\\", "")
+            retorno['depto'] = x['class']
+            retorno['cod'] = x['course']
             retorno['coreq'] = x['coreq']
             retorno['prereq'] = x['prereq']
             retorno['restr'] = x['restr']
