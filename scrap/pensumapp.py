@@ -8,7 +8,7 @@ retornar = {"records": []}
 cuantos = len(prefijos)
 i = 0
 for b in prefijos:
-    req = requests.get('https://registroapps.uniandes.edu.co/oferta_cursos/api/get_courses.php?term=201820&ptrm=1&prefix='+str(b), headers=headers)
+    req = requests.get('https://registroapps.uniandes.edu.co/oferta_cursos/api/get_courses.php?term=201910&ptrm=1&prefix='+str(b), headers=headers)
     jsonP = json.loads(req.text)
     ultimo = ""
     for x in jsonP['records']:
@@ -30,7 +30,7 @@ for b in prefijos:
 
 i = 0
 for b in prefijos:
-    req = requests.get('https://registroapps.uniandes.edu.co/oferta_cursos/api/get_courses.php?term=201820&ptrm=8A&prefix='+str(b), headers=headers)
+    req = requests.get('https://registroapps.uniandes.edu.co/oferta_cursos/api/get_courses.php?term=201910&ptrm=8A&prefix='+str(b), headers=headers)
     jsonP = json.loads(req.text)
     ultimo = ""
     for x in jsonP['records']:
@@ -52,7 +52,29 @@ for b in prefijos:
 
 i = 0
 for b in prefijos:
-    req = requests.get('https://registroapps.uniandes.edu.co/oferta_cursos/api/get_courses.php?term=201820&ptrm=8B&prefix='+str(b), headers=headers)
+    req = requests.get('https://registroapps.uniandes.edu.co/oferta_cursos/api/get_courses.php?term=201910&ptrm=8B&prefix='+str(b), headers=headers)
+    jsonP = json.loads(req.text)
+    ultimo = ""
+    for x in jsonP['records']:
+        retorno = {}
+        if(ultimo == str(x['class']+x["course"])):
+            pass
+        else:
+            ultimo = str(x['class']+x["course"])
+            retorno['title'] = x['title'].replace('"', ' ').replace("\xa0", " ").replace('xa0', ' ').replace("\\", "")
+            retorno['depto'] = x['class']
+            retorno['cod'] = x['course']
+            retorno['coreq'] = x['coreq']
+            retorno['prereq'] = x['prereq']
+            retorno['restr'] = x['restr']
+            retorno['credits'] = x['credits']
+            retornar["records"].append(retorno)
+    i = i + 1
+    print("Van: "+str(i)+" de "+str(cuantos))
+
+i = 0
+for b in prefijos:
+    req = requests.get('https://registroapps.uniandes.edu.co/oferta_cursos/api/get_courses.php?term=201910&ptrm=3&prefix='+str(b), headers=headers)
     jsonP = json.loads(req.text)
     ultimo = ""
     for x in jsonP['records']:
@@ -73,4 +95,4 @@ for b in prefijos:
     print("Van: "+str(i)+" de "+str(cuantos))
 
 with open('materiasFinal.json', "w") as f:
-    f.write(str(retornar).replace('\'', '\"').replace("\xa0", " ").replace('xa0', ' ').replace("\\", ""))
+    json.dump(retornar, f, ensure_ascii=False)
