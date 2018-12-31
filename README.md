@@ -2,9 +2,6 @@
 
 ### Recomendaciones
 
-NUNCA SUBIR CON EL NODE_MODULES.
-Siempre eliminarlo para hacer push.
-
 Para instalar node_modules:
 ```sh
 $ cd pensum
